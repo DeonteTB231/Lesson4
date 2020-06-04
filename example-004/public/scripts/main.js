@@ -1,6 +1,6 @@
 // configuration
 requirejs.config({
-  baseUrl: '/scripts',
+  baseUrl: 'http://wcet3.waketech.edu/dburnett/WEB215/Lesson4/example-004/public/scripts/',
   paths: {
     jquery: 'vendor/jquery/jquery-2.1.3.min',
     'jquery-all': 'util/jquery-all',
